@@ -1,3 +1,8 @@
+require('dotenv').config();
+
 const square = document.querySelector('.container');
-console.log(square);
+console.log(process.env);
+// console.log(process.env.PRIVATE_KEY);
 // console.log("hello")
+
+// 
