@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "dotenv": "^8.2.0",
-    "md5": "^2.3.0"
+    "md5": "^2.3.0",
+    "node-fetch": "^2.6.1"
   }
 }
